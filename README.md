@@ -1,2 +1,2 @@
 # sigma-demo
-this is demo for git &amp; githgub class
+this is demo for git &amp; githgub class.
